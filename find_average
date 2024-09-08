@@ -1,0 +1,5 @@
+#RESULT: Find the mean (average) of a list of numbers in an array.
+#PSEUDOCODE:    Do the math. 
+
+def find_average(nums):
+    return sum(nums) / len(nums)
