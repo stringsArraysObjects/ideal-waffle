@@ -1,2 +1,1 @@
-# ideal-waffle
-codewars python
+<h2>CodeWars</h2> python
