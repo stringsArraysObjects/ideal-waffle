@@ -1,1 +1,1 @@
-<h2>CodeWars</h2> <i>python</i>
+<h2>CodeWars</h2> <i>Python</i>
